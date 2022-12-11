@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(49, 48, 48);
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+ header{
+    color:aliceblue;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    margin-top: 20px;
+
+ }
+ .timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+ }
